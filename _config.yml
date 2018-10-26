@@ -1,3 +1,4 @@
 theme: jekyll-theme-time-machine
 title: shRlog 
 description: Security Hub in R using Graylog
+show_downloads: "false"
